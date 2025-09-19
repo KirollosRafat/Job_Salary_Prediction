@@ -5,7 +5,6 @@ This project provides a machine learning model to predict employee salaries base
 ---
 
 ## 📁 Repository Structure
-Job_Salary_Prediction/
 ├── APP.py # Streamlit app that loads the model and offers UI for predictions
 ├── salary_model.joblib # Trained model saved using joblib
 ├── Salaries.csv # Dataset containing salary + features
@@ -18,19 +17,19 @@ Job_Salary_Prediction/
 ## 🧾 Data & Features
 
 - **Salaries.csv**  
-  The dataset used for training includes features such as:
-  - Age  
-  - Years of Experience  
-  - Gender  
-  - Education Level  
-  - Job Title  
-  - Salary (target)
+    The dataset used for training includes features such as:
+    - Age  
+    - Years of Experience  
+    - Gender  
+    - Education Level  
+    - Job Title  
+    - Salary (target)
 
 - **Preparation.ipynb**  
-  This notebook shows how the data was cleaned, preprocessed, perhaps how missing values are handled, encoding of categorical variables, etc.
+    This notebook shows how the data was cleaned, preprocessed, perhaps how missing values are handled, encoding of categorical variables, etc.
 
 - **Models.ipynb**  
-  Contains experiments, model selection, possibly hyperparameter tuning, metrics, etc.
+    Contains experiments, model selection, possibly hyperparameter tuning, metrics, etc.
 
 ---
 

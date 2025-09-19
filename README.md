@@ -67,7 +67,8 @@ GridSearchCV ensured systematic hyperparameter tuning and robust performance est
 Based on the reported scores, the best-performing model was exported as salary_model.joblib and deployed in the Streamlit app.
 
 
-
+## 🔗 Streamlit Link Deployment
+https://kirollosrafat-job-salary-prediction-app-t6opio.streamlit.app/
 
 
 
